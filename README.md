@@ -10,4 +10,4 @@ This application has Three layers:
 Swagger is integrated with this application.
 	URL:http://localhost:9095/swagger-ui.html#/
 
-please find the testcases are under  Test folder
+please find the testcases under Test folder
